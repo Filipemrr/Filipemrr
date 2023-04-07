@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filipe Raposo</h1>
 <h3 align="center">A computer science student and web developer from Brasil 🇧🇷</h3>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=filipemrr&show_icons=true" /></p>
+<p><img align="left" widht"47%" src="https://github-readme-stats.vercel.app/api?username=filipemrr&show_icons=true" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=filipemrr&" alt="filipemr" /></p>
+<p><img align="left" widht"47%" src="https://github-readme-streak-stats.herokuapp.com/?user=filipemrr&" alt="filipemr" /></p>
 
 - 🔭 I’m currently working on **Improve my knowledge in front end.**
 
