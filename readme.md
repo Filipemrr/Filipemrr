@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Improve my knowledge in back end development.**
+- 🔭 I’m currently working on **Improve my knowledge in backend development.**
 
 - 🌱 I’m currently learning JavaScript (express and node)**
 
