@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on **Improve my knowledge in front end.**
+- 🔭 I’m currently working on **Improve my knowledge in back end development.**
 
-- 🌱 I’m currently learning **C (in university) and JavaScript**
+- 🌱 I’m currently learning JavaScript (express and node)**
 
 - 📫 Contact E-mail **contact.filipemr@gmail.com**
 
