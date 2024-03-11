@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Raposo</h1>
-<h3 align="center">A Computer Science student and web developer from Brazil 🇧🇷</h3>
+<h3 align="center">Software developer and undergraduate student in Computer Science Brazil 🇧🇷</h3>
 
 
 <div align="center">
